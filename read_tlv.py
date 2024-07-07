@@ -3,6 +3,8 @@ import struct
 import logging
 import time
 import math
+import matplotlib.pyplot as plt
+import numpy as np
 
 # Configure logging
 logging.basicConfig(
@@ -35,6 +37,17 @@ def send_config():
     data_bytes = "configDataPort 921600 1".encode("utf-8")
     config_ser.write(data_bytes)
     print("Configuration complete.")
+
+
+# Global variables for plotting
+fig, ax = plt.subplots()
+scatter = ax.scatter([], [])
+ax.set_xlim(-500, 500)  # Adjust these limits based on your expected range in cm
+ax.set_ylim(0, 1000)  # Adjust these limits based on your expected range in cm
+ax.set_xlabel("X position (cm)")
+ax.set_ylabel("Y position (cm)")
+ax.set_title("Detected Objects")
+ax.grid(True)
 
 
 def decode_version(version):
@@ -91,6 +104,8 @@ def parse_detected_points(data, num_points):
         point_data = data[i * 16 : (i + 1) * 16]
         try:
             x, y, z, velocity = struct.unpack("<ffff", point_data)
+            # Convert x, y, z from meters to centimeters
+            x, y, z = x * 100, y * 100, z * 100
             distance = math.sqrt(x**2 + y**2 + z**2)
             points.append(
                 {"x": x, "y": y, "z": z, "velocity": velocity, "distance": distance}
@@ -123,12 +138,27 @@ def print_detected_points(points):
     logging.info("-----------------------Detected Points ---------------------------:")
     for i, point in enumerate(points):
         logging.info(
-            f"  Point {i+1}: X: {point['x']:.2f}, Y: {point['y']:.2f}, Z: {point['z']:.2f}, "
-            f"Velocity: {point['velocity']:.2f}, Distance: {point['distance']:.2f}"
+            f"  Point {i+1}: X: {point['x']:.2f} cm, Y: {point['y']:.2f} cm, Z: {point['z']:.2f} cm, "
+            f"Velocity: {point['velocity']:.2f}, Distance: {point['distance']:.2f} cm"
         )
     logging.info(
         "-----------------------End Detected Points ---------------------------:"
     )
+
+
+def update_plot(points):
+    logging.info(f"Updating plot with {len(points)} points")
+    if not points:
+        logging.info("No points detected, clearing plot")
+        scatter.set_offsets(np.empty((0, 2)))
+    else:
+        x = [point["x"] for point in points]
+        y = [point["y"] for point in points]
+        offsets = np.column_stack((x, y))
+        scatter.set_offsets(offsets)
+
+    fig.canvas.draw_idle()
+    plt.pause(0.01)
 
 
 def read_data():
@@ -169,6 +199,10 @@ def read_data():
                                             points_data, num_points
                                         )
                                         print_detected_points(detected_points)
+                                        try:
+                                            update_plot(detected_points)
+                                        except Exception as e:
+                                            logging.error(f"Error updating plot: {e}")
 
                                     tlv_start += tlv_length
                                 else:
@@ -190,12 +224,14 @@ if __name__ == "__main__":
         logging.info("Sending configuration to radar...")
         send_config()
         logging.info("Starting to read radar data...")
+        plt.ion()  # Turn on interactive mode
         read_data()
     except KeyboardInterrupt:
         logging.info("Program interrupted by user.")
     except Exception as e:
         logging.exception("An error occurred:")
     finally:
-        config_ser.close()
         data_ser.close()
         logging.info("Serial port closed.")
+        plt.ioff()  # Turn off interactive mode
+        plt.show()  # Show the final plot state
