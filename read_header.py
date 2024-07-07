@@ -127,6 +127,8 @@ def read_data():
 
 if __name__ == "__main__":
     try:
+        logging.info("Starting configuration...")
+        send_config()
         logging.info("Starting to read frame headers...")
         read_data()
     except KeyboardInterrupt:
