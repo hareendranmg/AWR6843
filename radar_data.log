@@ -46430,3 +46430,123 @@
 2024-07-07 18:20:39,770 - INFO -   Point 3: X: 9.81 cm, Y: 8.65 cm, Z: 0.00 cm, Velocity: 0.00, Distance: 13.08 cm
 2024-07-07 18:20:39,770 - INFO - -----------------------End Detected Points ---------------------------:
 2024-07-07 18:20:39,770 - INFO - Updating plot with 3 points
+2024-07-07 18:20:39,870 - INFO - -----------------------Start Frame Header ---------------------------:
+2024-07-07 18:20:39,870 - INFO -   Magic Word: 0201040306050807
+2024-07-07 18:20:39,870 - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+2024-07-07 18:20:39,870 - INFO -   Total Packet Length: 704 bytes
+2024-07-07 18:20:39,870 - INFO -   Platform: 0xA6843
+2024-07-07 18:20:39,870 - INFO -   Frame Number: 2492
+2024-07-07 18:20:39,870 - INFO -   Time [CPU Cycles]: 3788416415
+2024-07-07 18:20:39,870 - INFO -   Number of Detected Objects: 3
+2024-07-07 18:20:39,870 - INFO -   Number of TLVs: 5
+2024-07-07 18:20:39,870 - INFO -   Subframe Number: 0
+2024-07-07 18:20:39,870 - INFO - -----------------------End Frame Header -----------------------------:
+2024-07-07 18:20:39,970 - INFO - -----------------------Start Frame Header ---------------------------:
+2024-07-07 18:20:39,970 - INFO -   Magic Word: 0201040306050807
+2024-07-07 18:20:39,970 - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+2024-07-07 18:20:39,970 - INFO -   Total Packet Length: 704 bytes
+2024-07-07 18:20:39,970 - INFO -   Platform: 0xA6843
+2024-07-07 18:20:39,970 - INFO -   Frame Number: 2493
+2024-07-07 18:20:39,970 - INFO -   Time [CPU Cycles]: 3808416415
+2024-07-07 18:20:39,970 - INFO -   Number of Detected Objects: 3
+2024-07-07 18:20:39,970 - INFO -   Number of TLVs: 5
+2024-07-07 18:20:39,970 - INFO -   Subframe Number: 0
+2024-07-07 18:20:39,970 - INFO - -----------------------End Frame Header -----------------------------:
+2024-07-07 18:20:40,070 - INFO - -----------------------Start Frame Header ---------------------------:
+2024-07-07 18:20:40,070 - INFO -   Magic Word: 0201040306050807
+2024-07-07 18:20:40,070 - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+2024-07-07 18:20:40,070 - INFO -   Total Packet Length: 704 bytes
+2024-07-07 18:20:40,070 - INFO -   Platform: 0xA6843
+2024-07-07 18:20:40,070 - INFO -   Frame Number: 2494
+2024-07-07 18:20:40,070 - INFO -   Time [CPU Cycles]: 3828417108
+2024-07-07 18:20:40,070 - INFO -   Number of Detected Objects: 3
+2024-07-07 18:20:40,070 - INFO -   Number of TLVs: 5
+2024-07-07 18:20:40,070 - INFO -   Subframe Number: 0
+2024-07-07 18:20:40,070 - INFO - -----------------------End Frame Header -----------------------------:
+2024-07-07 18:20:40,070 - INFO - -----------------------Detected Points ---------------------------:
+2024-07-07 18:20:40,070 - INFO -   Point 1: X: -0.41 cm, Y: 4.34 cm, Z: 0.00 cm, Velocity: 0.00, Distance: 4.36 cm
+2024-07-07 18:20:40,070 - INFO -   Point 2: X: -2.32 cm, Y: 3.69 cm, Z: 0.00 cm, Velocity: 0.00, Distance: 4.36 cm
+2024-07-07 18:20:40,070 - INFO -   Point 3: X: 9.81 cm, Y: 8.65 cm, Z: 0.00 cm, Velocity: 0.00, Distance: 13.08 cm
+2024-07-07 18:20:40,070 - INFO - -----------------------End Detected Points ---------------------------:
+2024-07-07 18:20:40,070 - INFO - Updating plot with 3 points
+2024-07-07 18:20:40,170 - INFO - -----------------------Start Frame Header ---------------------------:
+2024-07-07 18:20:40,170 - INFO -   Magic Word: 0201040306050807
+2024-07-07 18:20:40,170 - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+2024-07-07 18:20:40,170 - INFO -   Total Packet Length: 704 bytes
+2024-07-07 18:20:40,170 - INFO -   Platform: 0xA6843
+2024-07-07 18:20:40,170 - INFO -   Frame Number: 2495
+2024-07-07 18:20:40,170 - INFO -   Time [CPU Cycles]: 3848416382
+2024-07-07 18:20:40,170 - INFO -   Number of Detected Objects: 3
+2024-07-07 18:20:40,170 - INFO -   Number of TLVs: 5
+2024-07-07 18:20:40,170 - INFO -   Subframe Number: 0
+2024-07-07 18:20:40,170 - INFO - -----------------------End Frame Header -----------------------------:
+2024-07-07 18:20:40,170 - INFO - -----------------------Detected Points ---------------------------:
+2024-07-07 18:20:40,170 - INFO -   Point 1: X: -0.41 cm, Y: 4.34 cm, Z: 0.00 cm, Velocity: 0.00, Distance: 4.36 cm
+2024-07-07 18:20:40,170 - INFO -   Point 2: X: -2.32 cm, Y: 3.69 cm, Z: 0.00 cm, Velocity: 0.00, Distance: 4.36 cm
+2024-07-07 18:20:40,170 - INFO -   Point 3: X: 9.81 cm, Y: 8.65 cm, Z: 0.00 cm, Velocity: 0.00, Distance: 13.08 cm
+2024-07-07 18:20:40,170 - INFO - -----------------------End Detected Points ---------------------------:
+2024-07-07 18:20:40,170 - INFO - Updating plot with 3 points
+2024-07-07 18:20:40,269 - INFO - -----------------------Start Frame Header ---------------------------:
+2024-07-07 18:20:40,270 - INFO -   Magic Word: 0201040306050807
+2024-07-07 18:20:40,270 - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+2024-07-07 18:20:40,270 - INFO -   Total Packet Length: 768 bytes
+2024-07-07 18:20:40,270 - INFO -   Platform: 0xA6843
+2024-07-07 18:20:40,270 - INFO -   Frame Number: 2496
+2024-07-07 18:20:40,270 - INFO -   Time [CPU Cycles]: 3868421334
+2024-07-07 18:20:40,270 - INFO -   Number of Detected Objects: 5
+2024-07-07 18:20:40,270 - INFO -   Number of TLVs: 5
+2024-07-07 18:20:40,270 - INFO -   Subframe Number: 0
+2024-07-07 18:20:40,270 - INFO - -----------------------End Frame Header -----------------------------:
+2024-07-07 18:20:40,369 - INFO - -----------------------Start Frame Header ---------------------------:
+2024-07-07 18:20:40,370 - INFO -   Magic Word: 0201040306050807
+2024-07-07 18:20:40,370 - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+2024-07-07 18:20:40,370 - INFO -   Total Packet Length: 768 bytes
+2024-07-07 18:20:40,370 - INFO -   Platform: 0xA6843
+2024-07-07 18:20:40,370 - INFO -   Frame Number: 2497
+2024-07-07 18:20:40,370 - INFO -   Time [CPU Cycles]: 3888421253
+2024-07-07 18:20:40,370 - INFO -   Number of Detected Objects: 5
+2024-07-07 18:20:40,370 - INFO -   Number of TLVs: 5
+2024-07-07 18:20:40,370 - INFO -   Subframe Number: 0
+2024-07-07 18:20:40,370 - INFO - -----------------------End Frame Header -----------------------------:
+2024-07-07 18:20:40,370 - INFO - -----------------------Detected Points ---------------------------:
+2024-07-07 18:20:40,370 - INFO -   Point 1: X: -0.41 cm, Y: 4.34 cm, Z: 0.00 cm, Velocity: 0.00, Distance: 4.36 cm
+2024-07-07 18:20:40,370 - INFO -   Point 2: X: -2.32 cm, Y: 3.69 cm, Z: 0.00 cm, Velocity: 0.00, Distance: 4.36 cm
+2024-07-07 18:20:40,370 - INFO -   Point 3: X: 9.40 cm, Y: 9.10 cm, Z: 0.00 cm, Velocity: 0.00, Distance: 13.08 cm
+2024-07-07 18:20:40,370 - INFO -   Point 4: X: -6.13 cm, Y: 65.12 cm, Z: 0.00 cm, Velocity: 0.24, Distance: 65.41 cm
+2024-07-07 18:20:40,370 - INFO -   Point 5: X: -34.75 cm, Y: 55.42 cm, Z: 0.00 cm, Velocity: 0.24, Distance: 65.41 cm
+2024-07-07 18:20:40,370 - INFO - -----------------------End Detected Points ---------------------------:
+2024-07-07 18:20:40,370 - INFO - Updating plot with 5 points
+2024-07-07 18:20:40,470 - INFO - -----------------------Start Frame Header ---------------------------:
+2024-07-07 18:20:40,470 - INFO -   Magic Word: 0201040306050807
+2024-07-07 18:20:40,470 - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+2024-07-07 18:20:40,470 - INFO -   Total Packet Length: 704 bytes
+2024-07-07 18:20:40,470 - INFO -   Platform: 0xA6843
+2024-07-07 18:20:40,470 - INFO -   Frame Number: 2498
+2024-07-07 18:20:40,470 - INFO -   Time [CPU Cycles]: 3908417264
+2024-07-07 18:20:40,470 - INFO -   Number of Detected Objects: 3
+2024-07-07 18:20:40,470 - INFO -   Number of TLVs: 5
+2024-07-07 18:20:40,470 - INFO -   Subframe Number: 0
+2024-07-07 18:20:40,470 - INFO - -----------------------End Frame Header -----------------------------:
+2024-07-07 18:20:40,470 - INFO - -----------------------Detected Points ---------------------------:
+2024-07-07 18:20:40,470 - INFO -   Point 1: X: -0.41 cm, Y: 4.34 cm, Z: 0.00 cm, Velocity: 0.00, Distance: 4.36 cm
+2024-07-07 18:20:40,470 - INFO -   Point 2: X: -2.32 cm, Y: 3.69 cm, Z: 0.00 cm, Velocity: 0.00, Distance: 4.36 cm
+2024-07-07 18:20:40,470 - INFO -   Point 3: X: 9.40 cm, Y: 9.10 cm, Z: 0.00 cm, Velocity: 0.00, Distance: 13.08 cm
+2024-07-07 18:20:40,470 - INFO - -----------------------End Detected Points ---------------------------:
+2024-07-07 18:20:40,470 - INFO - Updating plot with 3 points
+2024-07-07 18:20:40,569 - INFO - -----------------------Start Frame Header ---------------------------:
+2024-07-07 18:20:40,569 - INFO -   Magic Word: 0201040306050807
+2024-07-07 18:20:40,569 - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+2024-07-07 18:20:40,569 - INFO -   Total Packet Length: 704 bytes
+2024-07-07 18:20:40,569 - INFO -   Platform: 0xA6843
+2024-07-07 18:20:40,569 - INFO -   Frame Number: 2499
+2024-07-07 18:20:40,569 - INFO -   Time [CPU Cycles]: 3928418955
+2024-07-07 18:20:40,569 - INFO -   Number of Detected Objects: 3
+2024-07-07 18:20:40,569 - INFO -   Number of TLVs: 5
+2024-07-07 18:20:40,570 - INFO -   Subframe Number: 0
+2024-07-07 18:20:40,570 - INFO - -----------------------End Frame Header -----------------------------:
+2024-07-07 18:20:40,570 - INFO - -----------------------Detected Points ---------------------------:
+2024-07-07 18:20:40,570 - INFO -   Point 1: X: -0.41 cm, Y: 4.34 cm, Z: 0.00 cm, Velocity: 0.00, Distance: 4.36 cm
+2024-07-07 18:20:40,570 - INFO -   Point 2: X: -2.32 cm, Y: 3.69 cm, Z: 0.00 cm, Velocity: 0.00, Distance: 4.36 cm
+2024-07-07 18:20:40,570 - INFO -   Point 3: X: 9.40 cm, Y: 9.10 cm, Z: 0.00 cm, Velocity: 0.00, Distance: 13.08 cm
+2024-07-07 18:20:40,570 - INFO - -----------------------End Detected Points ---------------------------:
+2024-07-07 18:20:40,570 - INFO - Updating plot with 3 points
