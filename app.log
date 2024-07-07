@@ -1,0 +1,905 @@
+root - INFO - Starting to read frame headers...
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 800 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12735
+root - INFO -   Time [CPU Cycles]: 3751404183
+root - INFO -   Number of Detected Objects: 7
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 800 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12736
+root - INFO -   Time [CPU Cycles]: 3771404363
+root - INFO -   Number of Detected Objects: 7
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12737
+root - INFO -   Time [CPU Cycles]: 3791401431
+root - INFO -   Number of Detected Objects: 6
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12738
+root - INFO -   Time [CPU Cycles]: 3811399249
+root - INFO -   Number of Detected Objects: 6
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12739
+root - INFO -   Time [CPU Cycles]: 3831399573
+root - INFO -   Number of Detected Objects: 6
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12740
+root - INFO -   Time [CPU Cycles]: 3851399144
+root - INFO -   Number of Detected Objects: 5
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12741
+root - INFO -   Time [CPU Cycles]: 3871398669
+root - INFO -   Number of Detected Objects: 5
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12742
+root - INFO -   Time [CPU Cycles]: 3891399462
+root - INFO -   Number of Detected Objects: 5
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12743
+root - INFO -   Time [CPU Cycles]: 3911399387
+root - INFO -   Number of Detected Objects: 5
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12744
+root - INFO -   Time [CPU Cycles]: 3931399685
+root - INFO -   Number of Detected Objects: 5
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12745
+root - INFO -   Time [CPU Cycles]: 3951399473
+root - INFO -   Number of Detected Objects: 5
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12746
+root - INFO -   Time [CPU Cycles]: 3971399514
+root - INFO -   Number of Detected Objects: 5
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 800 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12747
+root - INFO -   Time [CPU Cycles]: 3991405796
+root - INFO -   Number of Detected Objects: 7
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12748
+root - INFO -   Time [CPU Cycles]: 4011411930
+root - INFO -   Number of Detected Objects: 8
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12749
+root - INFO -   Time [CPU Cycles]: 4031407539
+root - INFO -   Number of Detected Objects: 6
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12750
+root - INFO -   Time [CPU Cycles]: 4051401942
+root - INFO -   Number of Detected Objects: 6
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12751
+root - INFO -   Time [CPU Cycles]: 4071415099
+root - INFO -   Number of Detected Objects: 8
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12752
+root - INFO -   Time [CPU Cycles]: 4091417404
+root - INFO -   Number of Detected Objects: 9
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12753
+root - INFO -   Time [CPU Cycles]: 4111411216
+root - INFO -   Number of Detected Objects: 9
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12754
+root - INFO -   Time [CPU Cycles]: 4131402237
+root - INFO -   Number of Detected Objects: 5
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 800 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12755
+root - INFO -   Time [CPU Cycles]: 4151403823
+root - INFO -   Number of Detected Objects: 7
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12756
+root - INFO -   Time [CPU Cycles]: 4171408627
+root - INFO -   Number of Detected Objects: 9
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 800 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12757
+root - INFO -   Time [CPU Cycles]: 4191404694
+root - INFO -   Number of Detected Objects: 7
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12758
+root - INFO -   Time [CPU Cycles]: 4211406421
+root - INFO -   Number of Detected Objects: 8
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12759
+root - INFO -   Time [CPU Cycles]: 4231404908
+root - INFO -   Number of Detected Objects: 8
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12760
+root - INFO -   Time [CPU Cycles]: 4251404594
+root - INFO -   Number of Detected Objects: 8
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12761
+root - INFO -   Time [CPU Cycles]: 4271403756
+root - INFO -   Number of Detected Objects: 8
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12762
+root - INFO -   Time [CPU Cycles]: 4291404263
+root - INFO -   Number of Detected Objects: 8
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 800 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12763
+root - INFO -   Time [CPU Cycles]: 16437627
+root - INFO -   Number of Detected Objects: 7
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12764
+root - INFO -   Time [CPU Cycles]: 36438124
+root - INFO -   Number of Detected Objects: 8
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12765
+root - INFO -   Time [CPU Cycles]: 56438131
+root - INFO -   Number of Detected Objects: 8
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 800 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12766
+root - INFO -   Time [CPU Cycles]: 76436567
+root - INFO -   Number of Detected Objects: 7
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12767
+root - INFO -   Time [CPU Cycles]: 96434004
+root - INFO -   Number of Detected Objects: 5
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12768
+root - INFO -   Time [CPU Cycles]: 116434526
+root - INFO -   Number of Detected Objects: 6
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12769
+root - INFO -   Time [CPU Cycles]: 136434696
+root - INFO -   Number of Detected Objects: 5
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12770
+root - INFO -   Time [CPU Cycles]: 156434140
+root - INFO -   Number of Detected Objects: 6
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12771
+root - INFO -   Time [CPU Cycles]: 176433871
+root - INFO -   Number of Detected Objects: 6
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12772
+root - INFO -   Time [CPU Cycles]: 196434587
+root - INFO -   Number of Detected Objects: 6
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 800 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12773
+root - INFO -   Time [CPU Cycles]: 216437638
+root - INFO -   Number of Detected Objects: 7
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12774
+root - INFO -   Time [CPU Cycles]: 236434041
+root - INFO -   Number of Detected Objects: 6
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12775
+root - INFO -   Time [CPU Cycles]: 256436548
+root - INFO -   Number of Detected Objects: 8
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12776
+root - INFO -   Time [CPU Cycles]: 276435148
+root - INFO -   Number of Detected Objects: 6
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12777
+root - INFO -   Time [CPU Cycles]: 296440763
+root - INFO -   Number of Detected Objects: 9
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12778
+root - INFO -   Time [CPU Cycles]: 316432887
+root - INFO -   Number of Detected Objects: 6
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12779
+root - INFO -   Time [CPU Cycles]: 336433617
+root - INFO -   Number of Detected Objects: 6
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 800 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12780
+root - INFO -   Time [CPU Cycles]: 356437539
+root - INFO -   Number of Detected Objects: 7
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12781
+root - INFO -   Time [CPU Cycles]: 376440180
+root - INFO -   Number of Detected Objects: 9
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 800 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12782
+root - INFO -   Time [CPU Cycles]: 396436728
+root - INFO -   Number of Detected Objects: 7
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12783
+root - INFO -   Time [CPU Cycles]: 416433603
+root - INFO -   Number of Detected Objects: 5
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12784
+root - INFO -   Time [CPU Cycles]: 436434177
+root - INFO -   Number of Detected Objects: 6
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12785
+root - INFO -   Time [CPU Cycles]: 456437372
+root - INFO -   Number of Detected Objects: 8
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12786
+root - INFO -   Time [CPU Cycles]: 476440891
+root - INFO -   Number of Detected Objects: 9
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12787
+root - INFO -   Time [CPU Cycles]: 496441166
+root - INFO -   Number of Detected Objects: 9
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 800 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12788
+root - INFO -   Time [CPU Cycles]: 516437411
+root - INFO -   Number of Detected Objects: 7
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12789
+root - INFO -   Time [CPU Cycles]: 536443041
+root - INFO -   Number of Detected Objects: 9
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 864 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12790
+root - INFO -   Time [CPU Cycles]: 556441002
+root - INFO -   Number of Detected Objects: 10
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12791
+root - INFO -   Time [CPU Cycles]: 576442942
+root - INFO -   Number of Detected Objects: 9
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 800 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12792
+root - INFO -   Time [CPU Cycles]: 596439032
+root - INFO -   Number of Detected Objects: 7
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 800 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12793
+root - INFO -   Time [CPU Cycles]: 616438752
+root - INFO -   Number of Detected Objects: 7
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 800 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12794
+root - INFO -   Time [CPU Cycles]: 636437765
+root - INFO -   Number of Detected Objects: 7
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 800 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12795
+root - INFO -   Time [CPU Cycles]: 656438575
+root - INFO -   Number of Detected Objects: 7
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12796
+root - INFO -   Time [CPU Cycles]: 676442892
+root - INFO -   Number of Detected Objects: 9
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 864 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12797
+root - INFO -   Time [CPU Cycles]: 696446072
+root - INFO -   Number of Detected Objects: 11
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 864 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12798
+root - INFO -   Time [CPU Cycles]: 716446249
+root - INFO -   Number of Detected Objects: 11
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 864 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12799
+root - INFO -   Time [CPU Cycles]: 736445134
+root - INFO -   Number of Detected Objects: 11
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 864 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12800
+root - INFO -   Time [CPU Cycles]: 756444843
+root - INFO -   Number of Detected Objects: 11
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 864 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12801
+root - INFO -   Time [CPU Cycles]: 776440774
+root - INFO -   Number of Detected Objects: 10
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 864 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12802
+root - INFO -   Time [CPU Cycles]: 796441313
+root - INFO -   Number of Detected Objects: 10
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 864 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12803
+root - INFO -   Time [CPU Cycles]: 816446566
+root - INFO -   Number of Detected Objects: 11
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 864 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12804
+root - INFO -   Time [CPU Cycles]: 836445547
+root - INFO -   Number of Detected Objects: 11
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 864 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12805
+root - INFO -   Time [CPU Cycles]: 856441135
+root - INFO -   Number of Detected Objects: 10
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 864 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12806
+root - INFO -   Time [CPU Cycles]: 876441450
+root - INFO -   Number of Detected Objects: 10
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12807
+root - INFO -   Time [CPU Cycles]: 896441488
+root - INFO -   Number of Detected Objects: 9
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 864 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12808
+root - INFO -   Time [CPU Cycles]: 916441451
+root - INFO -   Number of Detected Objects: 10
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 864 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12809
+root - INFO -   Time [CPU Cycles]: 936441308
+root - INFO -   Number of Detected Objects: 10
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12810
+root - INFO -   Time [CPU Cycles]: 956438300
+root - INFO -   Number of Detected Objects: 8
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12811
+root - INFO -   Time [CPU Cycles]: 976437000
+root - INFO -   Number of Detected Objects: 8
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 864 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12812
+root - INFO -   Time [CPU Cycles]: 996441005
+root - INFO -   Number of Detected Objects: 10
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 864 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12813
+root - INFO -   Time [CPU Cycles]: 1016441040
+root - INFO -   Number of Detected Objects: 10
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 800 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12814
+root - INFO -   Time [CPU Cycles]: 1036438245
+root - INFO -   Number of Detected Objects: 7
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 768 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12815
+root - INFO -   Time [CPU Cycles]: 1056435716
+root - INFO -   Number of Detected Objects: 6
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - -----------------------Start Frame Header ---------------------------:
+root - INFO -   Magic Word: 0201040306050807
+root - INFO -   Version: 50659332 (decoded: 03.05.00.04)
+root - INFO -   Total Packet Length: 832 bytes
+root - INFO -   Platform: 0xA6843
+root - INFO -   Frame Number: 12816
+root - INFO -   Time [CPU Cycles]: 1076438481
+root - INFO -   Number of Detected Objects: 8
+root - INFO -   Number of TLVs: 5
+root - INFO -   Subframe Number: 0
+root - INFO - -----------------------End Frame Header -----------------------------:
+root - INFO - Program interrupted by user.
+root - INFO - Serial port closed.
