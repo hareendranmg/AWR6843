@@ -3,8 +3,12 @@ import struct
 import logging
 import time
 import math
-import matplotlib.pyplot as plt
-import numpy as np
+import os
+import sys
+
+# delete the log file if it exists
+if os.path.exists("radar_data.log"):
+    os.remove("radar_data.log")
 
 # Configure logging
 logging.basicConfig(
@@ -18,17 +22,17 @@ MAGIC_WORD = b"\x02\x01\x04\03\x06\x05\x08\x07"
 FRAME_HEADER_LENGTH = 40
 TLV_HEADER_LENGTH = 8
 
-# Serial port configurations
-config_ser = serial.Serial("com11", 115200)
-data_ser = serial.Serial("com12", 921600)
+config_ser = None
+data_ser = None
 
 
 def send_config():
+    global config_ser
     with open("config.txt", "r") as file:
         for line in file:
             data_bytes = line.encode("utf-8")
             config_ser.write(data_bytes)
-            time.sleep(0.1)
+            time.sleep(0.01)
             data = config_ser.read_until("\r".encode("utf-8"))
             data = data.strip(b"\n\r").decode()
             print(data)  # Print the response from the device for debugging purposes
@@ -37,17 +41,6 @@ def send_config():
     data_bytes = "configDataPort 921600 1".encode("utf-8")
     config_ser.write(data_bytes)
     print("Configuration complete.")
-
-
-# Global variables for plotting
-fig, ax = plt.subplots()
-scatter = ax.scatter([], [])
-ax.set_xlim(-500, 500)  # Adjust these limits based on your expected range in cm
-ax.set_ylim(0, 1000)  # Adjust these limits based on your expected range in cm
-ax.set_xlabel("X position (cm)")
-ax.set_ylabel("Y position (cm)")
-ax.set_title("Detected Objects")
-ax.grid(True)
 
 
 def decode_version(version):
@@ -111,7 +104,8 @@ def parse_detected_points(data, num_points):
                 {"x": x, "y": y, "z": z, "velocity": velocity, "distance": distance}
             )
         except struct.error as e:
-            logging.error(f"Error unpacking point data: {e}")
+            pass
+            # logging.error(f"Error unpacking point data: {e}")
     return points
 
 
@@ -146,22 +140,8 @@ def print_detected_points(points):
     )
 
 
-def update_plot(points):
-    logging.info(f"Updating plot with {len(points)} points")
-    if not points:
-        logging.info("No points detected, clearing plot")
-        scatter.set_offsets(np.empty((0, 2)))
-    else:
-        x = [point["x"] for point in points]
-        y = [point["y"] for point in points]
-        offsets = np.column_stack((x, y))
-        scatter.set_offsets(offsets)
-
-    fig.canvas.draw_idle()
-    plt.pause(0.01)
-
-
 def read_data():
+    global data_ser
     buffer = b""
     while True:
         byte_count = data_ser.inWaiting()
@@ -190,6 +170,9 @@ def read_data():
                                     )
                                     tlv_start += TLV_HEADER_LENGTH
 
+                                    # log tlv_type
+                                    logging.info(f"TLV Type: {tlv_type}")
+
                                     if tlv_type == 1:  # Detected Points
                                         points_data = buffer[
                                             tlv_start : tlv_start + tlv_length
@@ -199,10 +182,6 @@ def read_data():
                                             points_data, num_points
                                         )
                                         print_detected_points(detected_points)
-                                        try:
-                                            update_plot(detected_points)
-                                        except Exception as e:
-                                            logging.error(f"Error updating plot: {e}")
 
                                     tlv_start += tlv_length
                                 else:
@@ -219,19 +198,38 @@ def read_data():
                     buffer = buffer[1:]
 
 
-if __name__ == "__main__":
+def main():
+    global config_ser, data_ser
     try:
+        if len(sys.argv) < 2 or sys.argv[1] not in ["aop", "aopcb"]:
+            print("Usage: python read_tlv.py [aop|aopcb]")
+            return
+
+        if sys.argv[1] == "aop":
+            port1, port2 = "11", "12"
+            # port1, port2 = "16", "17"
+        else:
+            port1, port2 = "13", "14"
+
+        config_ser = serial.Serial(f"COM{port1}", 115200)
+        data_ser = serial.Serial(f"COM{port2}", 921600)
+
         logging.info("Sending configuration to radar...")
         send_config()
         logging.info("Starting to read radar data...")
-        plt.ion()  # Turn on interactive mode
         read_data()
     except KeyboardInterrupt:
         logging.info("Program interrupted by user.")
     except Exception as e:
-        logging.exception("An error occurred:")
+        logging.exception("An error occurred: " + str(e))
     finally:
-        data_ser.close()
-        logging.info("Serial port closed.")
-        plt.ioff()  # Turn off interactive mode
-        plt.show()  # Show the final plot state
+        if config_ser:
+            config_ser.write("sensorStop\n".encode("utf-8"))
+            config_ser.close()
+        if data_ser:
+            data_ser.close()
+        logging.info("Serial ports closed.")
+
+
+if __name__ == "__main__":
+    main()
